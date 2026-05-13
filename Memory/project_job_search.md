@@ -128,7 +128,7 @@ Most IDT-specific application — entire resume reframed to surface 20 years of 
 **Location:** Shive-Hattery, Inc., 2839 Northgate Drive, Iowa City, IA 52245
 **Ask for:** Rachel Lorenzen upon arrival
 **Interview panel:**
-- **Rachel Lorenzen** — HR/recruiting coordinator (greet upon arrival, logistical contact)
+- **Rachel Lorenzen** — Creative Strategist Manager; likely Jesse's direct manager if hired
 - **Aly High** — AEC Creative Strategist at SH (Iowa City, U of Iowa background) — peer doing the job or similar; craft/day-to-day questions
 - **Jeff Lewis, AIA** — VP, Commercial Business Unit Director (Corporate Workplace, Commercial Dev, Energy, Hospitality, Housing); 25+ yrs; joined via Design Organization 2012
 - **Craig Erickson** — VP, Development + Energy Services Market Leader; Managing Director Des Moines (110+ staff); 30+ yrs; landscape arch background; culture/strategic fit

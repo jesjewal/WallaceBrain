@@ -16,7 +16,7 @@ Aly High · Rachel Lorenzen · Greg Kanz (Director of Marketing)
 
 **Aly High** already likes you — she was in the final interview. This is her vouching for you to Greg in a relaxed setting.
 
-**Rachel Lorenzen** is logistics and culture fit. She's watching whether you're a normal human being they want in the office.
+**Rachel Lorenzen** is likely your direct manager — Creative Strategist Manager. She's not just logistics. She's evaluating whether she wants to work with you every day and whether you'll make her team better.
 
 **The vibe:** Casual. They want to see who you are, not what you know. Let them talk. Ask good questions. Be someone they'd enjoy having coffee with every day.
 
@@ -27,6 +27,26 @@ Aly High · Rachel Lorenzen · Greg Kanz (Director of Marketing)
 > You're not a consultant who assessed them. You're someone who studied them because you genuinely wanted the job.
 
 Everything you know about their marketing lives in your head as *context*, not as *material*. You observed things because you care about this work — not because you were grading them.
+
+---
+
+## Working with Rachel — She's Your Boss
+
+Rachel is the most important read in the room now that you know she'd be your direct manager. Greg controls the department. Rachel controls your day-to-day reality.
+
+**What she's evaluating:** Can she hand you a brief and trust you to run with it? Will you make her look good or create more work for her? Are you someone she wants to manage?
+
+**Tips:**
+
+- **Ask her about her workflow.** "How do you typically hand off projects to the team — do you like to stay close on creative direction or give people room to run?" This tells her you're thinking about how to work *with* her, not just impressing the room.
+
+- **Let her know you take direction well.** Without saying it directly — show it through how you respond to anything she says. Agree where you genuinely agree. Ask a follow-up rather than pivoting to your own point.
+
+- **Don't try to impress her with what you know.** She doesn't need a strategist who has all the answers. She needs someone she can trust with her team's reputation.
+
+- **If she asks about your working style:** Lead with collaborative and responsive. Something like — "I like to get aligned on the goal early and then have room to execute, but I check in often — I'd rather surface a question early than go too far in the wrong direction."
+
+- **The question to ask her:** "What's been the hardest part about this role to fill — what have you been looking for that's been hard to find?" This is gold. She'll tell you exactly what she needs.
 
 ---
 
@@ -61,21 +81,20 @@ Quick. Specific. Framed as opportunity, not criticism. Drop it and move on.
 
 ---
 
-## Questions to Ask (Pick 2–3)
+## Questions to Ask
 
-These make Greg feel like the authority. That's the goal.
+**For Greg:**
+- **"What does success in this role look like to you in the first six months?"** — Signals you're oriented toward his goals, not your own agenda.
+- **"Where do you feel like the marketing function has the most room to grow right now?"** — Lets him name the gaps himself.
+- **"What drew you to Shive-Hattery specifically?"** — Gets him talking about why he's there. People love this question.
 
-- **"What does success in this role look like to you in the first six months?"**
-  Tells you what he actually needs. Signals you're oriented toward his goals.
+**For Rachel:**
+- **"What's been the hardest part about this role to fill — what have you been looking for that's been hard to find?"** — She'll tell you exactly what she needs. Listen carefully.
+- **"How do you typically hand off projects — do you like to stay close on creative direction or give people room to run?"** — Shows you're thinking about how to work with her specifically.
 
-- **"Where do you feel like the marketing function has the most room to grow right now?"**
-  Lets him name the gaps himself. You don't have to.
-
-- **"How does the creative work flow between your team and the project teams — are the architects and engineers involved in shaping the stories, or does that mostly live on the marketing side?"**
-  Shows you understand AEC firm dynamics. Signals you've thought about the actual workflow, not just the output.
-
-- **"What drew you to Shive-Hattery specifically?"**
-  People love this question. Gets Greg talking about why he's there, which tells you a lot.
+**For Aly:**
+- **"What do you wish you'd known coming into this role?"** — Peer-to-peer. She'll be honest in a way the managers won't.
+- **"How does the creative team collaborate with the project teams day-to-day?"** — She knows the real answer to this.
 
 ---
 

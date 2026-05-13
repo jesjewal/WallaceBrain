@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jesse Wallace's Brain.md",
+                "file": "Marketing Audits/Shive-Hattery — 2026-05-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jesse Wallace's Brain"
+              "title": "Shive-Hattery — 2026-05-13"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "1f829c2bc2686a5e",
   "lastOpenFiles": [
+    "Reference/NotebookLM Skill.md",
+    "About Me.md",
+    "Jesse Wallace's Brain.md",
     "Research/ID Course Assessor — Study Guide 2026-03-26.md",
     "Research/ID Course Assessor — Briefing Doc 2026-03-26.md",
     "Research",
@@ -193,7 +196,6 @@
     "Reference/Workflow — InDesign Scripting.md",
     "Reference/Workflow — EverBloomingRae Deploy.md",
     "Reference/Resume & Cover Letter Tailoring.md",
-    "Reference/NotebookLM Skill.md",
     "Reference/Marketing Content Audit Skill.md",
     "Reference/InDesign UXP Patterns.md",
     "Reference",
@@ -211,8 +213,6 @@
     "Job Search/Applications Overview.md",
     "Job Search",
     "Daily Notes/2026-05-13.md",
-    "Daily Notes",
-    "About Me.md",
-    "Jesse Wallace's Brain.md"
+    "Daily Notes"
   ]
 }

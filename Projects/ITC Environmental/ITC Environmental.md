@@ -88,11 +88,16 @@ Local copy at `/tmp/WixScraper/www.itc-environmental.com/`
 
 **Zach Heiden** — Owner
 - Email: zheiden@itc-environmental.com
-- In the field since **2012** — 14 years of hands-on environmental testing experience
-- Services clients **across the country** (not regional — national reach)
+- Based in **Indianapolis, IN**
+- In the field since **2012** — extensive hands-on environmental testing experience
+- **ITC Environmental founded: 2024**
+- Services clients across the country — **avoiding coastal markets** (cost structure); focus on midwest/non-coastal facilities
+- *Headshot: placeholder — to be supplied by Zach*
 
-### Bio Draft
-> Zach Heiden founded ITC Environmental after more than a decade working in environmental testing and certification. Since 2012, he has built a practice centered on what large firms rarely offer: direct access to the person doing the work. ITC serves laboratories, hospital pharmacies, compounding pharmacies, and pharmaceutical production facilities nationwide — bringing the same rigorous standards to a single-room cleanroom in Iowa as to a multi-suite pharmaceutical facility on the coasts. When you call ITC, you get Zach.
+### Bio Draft (generalized — no specific years or coast references)
+> Zach Heiden founded ITC Environmental on a simple premise: the person who answers your call should be the same person doing the work. With years of hands-on experience in environmental testing and certification, Zach built ITC to serve laboratories, hospital pharmacies, compounding pharmacies, and pharmaceutical production facilities that expect rigorous standards and direct communication — not a call center. Based in Indianapolis, ITC serves clients across the country, bringing the same level of care to a single-room cleanroom as to a multi-suite pharmaceutical facility. When you call ITC, you get Zach.
+
+*[Headshot placeholder — awaiting photo from Zach]*
 
 ---
 

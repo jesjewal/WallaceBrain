@@ -89,7 +89,10 @@ Quick. Specific. Framed as opportunity, not criticism. Drop it and move on.
 - **"What drew you to Shive-Hattery specifically?"** — Gets him talking about why he's there. People love this question.
 
 **"What inspires you?"** *(They asked this in the final interview — expect it again)*
-> "The people I've met who lead with a servant heart. The ones who are genuinely good at what they do, but measure success by how much they made the people around them better. That's stayed with me — and I think it shows up in how I approach content. You put the client at the center, not the firm. Because the people doing the real work deserve to be seen."
+> "The people I've met who lead with a servant heart. The ones who are genuinely good at what they do, but measure success by how much they made the people around them better. That's stayed with me."
+
+**"How do you approach content? / What's your philosophy?"**
+> "Kevin O'Leary talks about Jobs' signal-to-noise ratio — 80% signal, 20% noise. The idea that most of what gets produced is noise, and your real job is to protect the signal. I think about that with content constantly. Most firms have the real story buried under press releases and project announcements. My job is to find it and bring it forward."
 
 **If he asks what you'd bring, or what you're focused on in a new role:**
 > "Reliability, honestly. My goal is to take things off your plate and give you consistent deliverables — so when you go back to leadership with marketing updates, you've already got the story in hand. You shouldn't have to chase me or wonder where something stands."

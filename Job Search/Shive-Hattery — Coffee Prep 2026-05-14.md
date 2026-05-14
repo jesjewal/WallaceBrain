@@ -60,7 +60,7 @@ Rachel is the most important read in the room now that you know she'd be your di
 
 ## Storytelling — Your Genuine Angle
 
-Their feature content is actually strong. *Partners in Climb* and *From Hazard to Habitat* have real narrative arcs — problem, approach, outcome. That's craft. You can compliment this honestly.
+Their feature content is actually strong. *Partners in Climb* and *[From Hazard to Habitat](https://www.shive-hattery.com/from-hazard-to-habitat-revitalizing-iowas-abandoned-mine-lands/)* have real narrative arcs — problem, approach, outcome. That's craft. You can compliment this honestly.
 
 The opportunity is more content following *that* model instead of the press release format. Frame it as:
 
@@ -87,6 +87,9 @@ Quick. Specific. Framed as opportunity, not criticism. Drop it and move on.
 - **"What does success in this role look like to you in the first six months?"** — Signals you're oriented toward his goals, not your own agenda.
 - **"Where do you feel like the marketing function has the most room to grow right now?"** — Lets him name the gaps himself.
 - **"What drew you to Shive-Hattery specifically?"** — Gets him talking about why he's there. People love this question.
+
+**"What inspires you?"** *(They asked this in the final interview — expect it again)*
+> "The people I've met who lead with a servant heart. The ones who are genuinely good at what they do, but measure success by how much they made the people around them better. That's stayed with me — and I think it shows up in how I approach content. You put the client at the center, not the firm. Because the people doing the real work deserve to be seen."
 
 **If he asks what you'd bring, or what you're focused on in a new role:**
 > "Reliability, honestly. My goal is to take things off your plate and give you consistent deliverables — so when you go back to leadership with marketing updates, you've already got the story in hand. You shouldn't have to chase me or wonder where something stands."

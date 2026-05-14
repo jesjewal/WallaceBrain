@@ -88,6 +88,9 @@ Quick. Specific. Framed as opportunity, not criticism. Drop it and move on.
 - **"Where do you feel like the marketing function has the most room to grow right now?"** — Lets him name the gaps himself.
 - **"What drew you to Shive-Hattery specifically?"** — Gets him talking about why he's there. People love this question.
 
+**If he asks what you'd bring, or what you're focused on in a new role:**
+> "Reliability, honestly. My goal is to take things off your plate and give you consistent deliverables — so when you go back to leadership with marketing updates, you've already got the story in hand. You shouldn't have to chase me or wonder where something stands."
+
 **For Rachel:**
 - **"What's been the hardest part about this role to fill — what have you been looking for that's been hard to find?"** — She'll tell you exactly what she needs. Listen carefully.
 - **"How do you typically hand off projects — do you like to stay close on creative direction or give people room to run?"** — Shows you're thinking about how to work with her specifically.

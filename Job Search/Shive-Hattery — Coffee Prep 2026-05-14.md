@@ -94,8 +94,6 @@ Quick. Specific. Framed as opportunity, not criticism. Drop it and move on.
 **"What motivates you?"**
 > "Earl Nightingale said you become what you think about. I think about my goals and my impact. That's it. If I'm thinking about the right things, the work follows."
 
-**"How do you approach content? / What's your philosophy?"**
-> "Kevin O'Leary talks about Jobs' signal-to-noise ratio — 80% signal, 20% noise. In AEC, there's a flood of content — project announcements, award posts, ribbon cuttings. The job is protecting the signal underneath all of that. For most firms, the signal is a human story. The client who took a risk. The community that got something back. That's what actually sticks with people."
 
 **If he asks what you'd bring, or what you're focused on in a new role:**
 > "Reliability, honestly. My goal is to take things off your plate and give you consistent deliverables — so when you go back to leadership with marketing updates, you've already got the story in hand. You shouldn't have to chase me or wonder where something stands."

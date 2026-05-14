@@ -91,6 +91,9 @@ Quick. Specific. Framed as opportunity, not criticism. Drop it and move on.
 **If he asks what you'd bring, or what you're focused on in a new role:**
 > "Reliability, honestly. My goal is to take things off your plate and give you consistent deliverables — so when you go back to leadership with marketing updates, you've already got the story in hand. You shouldn't have to chase me or wonder where something stands."
 
+**Closing question (for Greg, or the group):**
+- **"If a year from now you're looking back on whoever you brought into this role — what would they have had to do for you to say it was the right decision?"** — Makes him define success on his terms. His answer tells you exactly what he's afraid of and what he actually needs. Ask this near the end, when the conversation is warm.
+
 **For Rachel:**
 - **"What's been the hardest part about this role to fill — what have you been looking for that's been hard to find?"** — She'll tell you exactly what she needs. Listen carefully.
 - **"How do you typically hand off projects — do you like to stay close on creative direction or give people room to run?"** — Shows you're thinking about how to work with her specifically.

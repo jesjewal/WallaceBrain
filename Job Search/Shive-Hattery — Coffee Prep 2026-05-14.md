@@ -91,6 +91,9 @@ Quick. Specific. Framed as opportunity, not criticism. Drop it and move on.
 **"What inspires you?"** *(They asked this in the final interview — expect it again)*
 > "The people I've met who lead with a servant heart. The ones who are genuinely good at what they do, but measure success by how much they made the people around them better. That's stayed with me."
 
+**"What motivates you?"**
+> "Earl Nightingale said you become what you think about. I think about my goals and my impact. That's it. If I'm thinking about the right things, the work follows."
+
 **"How do you approach content? / What's your philosophy?"**
 > "Kevin O'Leary talks about Jobs' signal-to-noise ratio — 80% signal, 20% noise. In AEC, there's a flood of content — project announcements, award posts, ribbon cuttings. The job is protecting the signal underneath all of that. For most firms, the signal is a human story. The client who took a risk. The community that got something back. That's what actually sticks with people."
 

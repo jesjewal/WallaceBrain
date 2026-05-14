@@ -60,7 +60,7 @@ Rachel is the most important read in the room now that you know she'd be your di
 
 ## Storytelling — Your Genuine Angle
 
-Their feature content is actually strong. *Partners in Climb* and *[From Hazard to Habitat](https://www.shive-hattery.com/from-hazard-to-habitat-revitalizing-iowas-abandoned-mine-lands/)* have real narrative arcs — problem, approach, outcome. That's craft. You can compliment this honestly.
+Their feature content is actually strong. *Partners in Climb* has a real narrative arc — problem, approach, outcome. That's craft. *[From Hazard to Habitat](https://www.shive-hattery.com/from-hazard-to-habitat-revitalizing-iowas-abandoned-mine-lands/)* is a vision piece — the outcome hasn't happened yet, so don't reference it as a completed story.
 
 The opportunity is more content following *that* model instead of the press release format. Frame it as:
 

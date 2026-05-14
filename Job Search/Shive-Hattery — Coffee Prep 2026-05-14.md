@@ -60,11 +60,14 @@ Rachel is the most important read in the room now that you know she'd be your di
 
 ## Storytelling — Your Genuine Angle
 
-Their feature content is actually strong. *Partners in Climb* has a real narrative arc — problem, approach, outcome. That's craft. *[From Hazard to Habitat](https://www.shive-hattery.com/from-hazard-to-habitat-revitalizing-iowas-abandoned-mine-lands/)* is a vision piece — the outcome hasn't happened yet, so don't reference it as a completed story.
+Their feature content is actually strong. Reference both in conversation:
+
+- *[Partners in Climb](https://www.shive-hattery.com/partners-in-climb/)* — full narrative arc, problem, approach, outcome. Your strongest example. Use this one when talking about what their best content looks like.
+- *[From Hazard to Habitat](https://www.shive-hattery.com/from-hazard-to-habitat-revitalizing-iowas-abandoned-mine-lands/)* — vision piece, outcome hasn't happened yet. Reference it as a story they're telling about what's possible — don't frame it as a completed outcome.
 
 The opportunity is more content following *that* model instead of the press release format. Frame it as:
 
-> "The feature writing is genuinely good — *Partners in Climb* has a real arc to it. The opportunity is making more content follow that model. Those stories are already happening inside the firm, they just need someone to pull them out."
+> "The feature writing is genuinely good — *Partners in Climb* has a real arc to it, and *From Hazard to Habitat* is a compelling vision piece. The opportunity is making more content follow that model. Those stories are already happening inside the firm, they just need someone to pull them out."
 
 You're saying his best work is the standard. That's not threatening — it's validating.
 

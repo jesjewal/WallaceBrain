@@ -12,3 +12,5 @@
 - [EverBloomingRae Website](project_everbloomingrae.md) — New site for friend Maria Rae's floral preservation business; early planning stage
 - [EverBloomingRae Deploy Workflow](feedback_everbloomingrae_deploy.md) — Always preview locally first, then ask before pushing to Netlify
 - [Marketing Content Audit Skill](reference_marketing_audit_skill.md) — Custom skill at ~/.claude/skills/marketing-content-audit/ — 5-agent parallel audit: brand, content, copy, psychology, SEO
+- [ITC Environmental Website](project_itc_environmental.md) — Astro site for Zach Heiden's env. testing biz; needs real phone, headshot, company name confirmation
+- [Adobe for Creativity MCP Connector](reference_adobe_connector.md) — Connected in claude mcp list but tools don't load in CLI; use Claude.ai web app for photo edits
